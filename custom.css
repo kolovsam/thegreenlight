@@ -1,0 +1,74 @@
+h1 {
+    font-family: 'Berkshire Swash';
+    font-size: 32px;
+}
+
+/* SOCIAL BUTTONS */
+.social {
+  overflow: auto;
+  width: 100%;
+  /* background: #005249; */
+  /* background: #FF5722; */
+  /*
+  Un-comment and change below
+  flow to 'right' to put social
+  links on top of the picture.
+  position: absolute;
+  top: 20%;
+  right: 1.5%;
+  */
+
+  /* padding-left: 40%; */
+
+ }
+ 
+ .social li {
+  list-style-type: none;
+  float: left;
+  padding-right: 10px;
+  
+ 
+ }
+ 
+ ul li a i {
+  /* background: white; */
+  color: white;
+  /* color: #FF5722; */
+  width: 42px;
+  height: 42px;
+  font-size: 28px;
+  text-align: center;
+  margin-right: 5px;
+  padding-top: 15%;
+
+ 
+ 
+  /* color of social buttons */
+ }
+
+
+/* FONTS. From google. Not sure if we need this? */
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .berkshire-swash-regular {
+    font-family: "Berkshire Swash", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
