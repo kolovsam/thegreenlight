@@ -1,13 +1,19 @@
+
 h1 {
   font-family: 'Berkshire Swash';
   font-size: 32px;
 }
 
-h2 {
+h2, h3, h4, h5, p {
   font-family: 'Libre Baskerville';
-  font-size: 20px;
-  color: white;
 }
+
+
+h2 {
+  font-size: 20px;
+  color: #E4D7C4;
+}
+
 
 /* SOCIAL BUTTONS */
 .social {
@@ -38,7 +44,7 @@ h2 {
  
  ul li a i {
   /* background: white; */
-  color: white;
+  color: #E4D7C4;
   /* color: #FF5722; */
   /* width: 42px; */
   /* height: 42px; */
@@ -54,6 +60,15 @@ h2 {
   /* color of social buttons */
  }
 
+ .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  /* background-color: #005249 !important;
+  border-color: #005249; */
+  background-color: #334d2f !important;
+  border-color: #334d2f;
+  color: #E4D7C4;
+  font-family: 'Libre Baskerville';
+  
+} 
 
 /* FONTS. From google. Not sure if we need this? */
 .libre-baskerville-regular {
