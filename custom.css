@@ -63,8 +63,18 @@ h2 {
  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
   /* background-color: #005249 !important;
   border-color: #005249; */
-  background-color: #334d2f !important;
+  background-color: #E4D7C4 !important;
   border-color: #334d2f;
+  color: #403330;
+  font-family: 'Libre Baskerville';
+  
+} 
+
+.btn-secondary, .btn-secondary:hover, .btn-secondary:active, .btn-secondary:visited {
+  /* background-color: #005249 !important;
+  border-color: #005249; */
+  background-color: #403330 !important;
+  border-color: #403330;
   color: #E4D7C4;
   font-family: 'Libre Baskerville';
   
